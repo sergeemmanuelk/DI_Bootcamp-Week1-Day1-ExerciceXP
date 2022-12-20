@@ -1,0 +1,36 @@
+img {
+    border: 5px solid orangered;
+}
+
+.image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border {
+    border: 1px solid red;
+}
+
+.color {
+    color: red;
+}
+
+.center {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.width {
+    width: 80%;
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+.table-mb {
+    margin-bottom: 50px;
+}
